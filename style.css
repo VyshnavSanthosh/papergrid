@@ -1,0 +1,30 @@
+.top-section{
+    background-color: black;
+    position: relative;
+    
+}
+header{
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+header .navbar a{
+    color:rgb(141,141,141);
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+header .nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+footer{
+    background-color: black;
+}
+footer a,p{
+    color: rgb(141,141,141);
+}
+footer a:hover{
+    color: white;
+}
